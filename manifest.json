@@ -1,0 +1,51 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "§6Fast§eTotem §6add§e-on",
+        "description": "§bThis simple add-on allows you to swap the totem from your main hand to your §lfree§r§b off hand.\n§bThis add-on was made by §a@CibNumeritos#1094§b, you are §cnot allowed to re-upload§b or §cshare direct links§b.",
+        "uuid": "c7bf7d50-f987-43ad-93b0-b13151e372d8",
+        "min_engine_version": [
+            1,
+            19,
+            50
+        ],
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "description": "_",
+            "uuid": "956ef1ad-3c3a-401e-b74a-0431e178610d",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "script",
+            "description": "_",
+            "language": "javascript",
+            "uuid": "ab16186e-6551-4844-a3c9-466074b40a50",
+            "entry": "scripts/index.js",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.1.0-beta"
+        }
+    ],
+    "capabilities": [
+        "script_eval"
+    ]
+}
