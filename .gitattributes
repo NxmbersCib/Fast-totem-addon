@@ -1,6 +1,4 @@
-test/**/*.json linguist-vendored=true
-scripts/*.js linguist-vendored=true
 
-*.json linguist-detectable=true
+scripts/**/*.js linguist-vendored=true
 *.js linguist-detectable=true
 
