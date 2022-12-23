@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./pack_icon.png" alt="icn" width=400>
   <h1 align="center">Fast totem addon</h1>
@@ -8,5 +7,5 @@
 <p>
 <h2 align="center"> Juegos experimentales </h2>
 <p align="center"> Este add-on solo requiere de un juego experimental para funcionar correctamente: Beta APIs (Anteriormente conocido como Gametest Framework), sin embargo, el addon utiliza el nuevo comando /execute para funcionar. </p>
-<img align="center" src="./experimentos.jpg" alt="exp" width=400>
+<p align="center"> <img align="center" src="./experimentos.jpg" alt="exp" width=400> </p>
 <p>
