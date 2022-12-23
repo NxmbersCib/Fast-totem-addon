@@ -1,5 +1,5 @@
 test/**/*.json linguist-vendored=true
-test/**/*.js linguist-vendored=true
+scripts/*.js linguist-vendored=true
 
 *.json linguist-detectable=true
 *.js linguist-detectable=true
