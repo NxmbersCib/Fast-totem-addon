@@ -1,4 +1,5 @@
 
-scripts/**/*.js linguist-vendored=true
-*.js linguist-detectable=true
+scripts/**/*.json linguist-vendored=true
+*.json linguist-detectable=true
 
+*.js text-diff=javascript
