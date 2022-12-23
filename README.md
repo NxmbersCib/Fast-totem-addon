@@ -8,5 +8,5 @@
 <p>
 <h2 align="center"> Juegos experimentales </h2>
 <p align="center"> Este add-on solo requiere de un juego experimental para funcionar correctamente: Beta APIs (Anteriormente conocido como Gametest Framework), sin embargo, el addon utiliza el nuevo comando /execute para funcionar. </p>
-<img src="./experimentos.png" alt="exp" width=400>
+<img src="./experimentos.jpg" alt="exp" width=400>
 <p>
