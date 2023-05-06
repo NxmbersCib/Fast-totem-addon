@@ -22,7 +22,7 @@ world.events.entityHurt.subscribe((arg) => {
     if (health.current <= 0) {
         system.runTimeout(() => {
             if (health.current > 0) {
-                hurtEntity.runCommandAsync(`damage @s 0 none`);
+                hurtEntity.runCommandAsync(`damage @s 0 override`);
             };
         }, 1);
     };
