@@ -10,7 +10,7 @@
 <p>Fast totem addon incluye características adicionales útiles como el escudo rapido o fast shield, alertas que se mostrarán cuando un jugador active un tótem y un menú de configuración. Estas características se enlistarán a continuación</p>
 <ul>
 <li><h3>Escudo rápido</h3>Permite mover rápidamente a tu mano secundaria el escudo con solo click derecho, no importa si ya tienes un item en tu segunda mano, este se intercambiará con el totem de tu mano principal
-<img src="./fast_shield.gif"></li>
+<br><img align="center" src="./fast_shield.gif"></li>
 </ul>
 </p>
 
