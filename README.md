@@ -16,7 +16,8 @@
 <li><h3>Alerta de primer tótem o logro</h3>Un mensaje que saldrá en el chat la primera vez que un jugador active un totem, esta se puede configurar usando el comando !achievement, también se puede desactivar usando el menú de !config
 <br><img align="center" src="./totem_achievement.gif"></li>
 <li><h3>Comandos custom</h3>Hay comandos personalizados que puedes utilizar con el prefijo "!" en el chat, los cuales son:
-<br><img align="center" src="./custom_commands.jpg"></li>
+<br><img align="center" src="./custom_commands.jpg">
+los comandos !alert y !achievement solo funcionarán si el jugador tiene la tag "TS:Admin". Puedes añadirla usando el comando /tag <jugador> add "TS:Admin".</li>
 </ul>
 </p>
 
