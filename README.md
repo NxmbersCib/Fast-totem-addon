@@ -24,13 +24,13 @@
   - set: te permite cambiar el mensaje de alerta, cada "{player}" escrito en el mensaje será reemplazado por el nombre del jugador que activó el tótem<br>
   - reset: restablece el mensaje de alerta al valor predeterminado<br>
   - show: le permite elegir si mostrar o no el mensaje de alerta
-  <il></ul>
+  </il></ul>
 - !achievement: configuración de la primera alerta de activación del tótem (o logro), este comando tiene 3 parámetros:<br>
   <ul><il>
   - set: te permite cambiar el mensaje de alerta, cada "{player}" escrito en el mensaje será reemplazado por el nombre del jugador que activó el tótem<br>
   - reset: restablece el mensaje de alerta al valor predeterminado<br>
   - show: le permite elegir si mostrar o no el mensaje de alerta
- <il><ul>
+  </il></ul>
 
 NOTA IMPORTANTE: Es necesario tener el tag "TS:Admin" para poder editar las alertas. Puedes agregarlo usando /tag @s add "TS:Admin"
 <br><img align="center" src="./src/custom_commands.jpg">
