@@ -20,13 +20,13 @@
 - !help: muestra la lista completa de comandos que proporciona el uso de cada comando<br>
 - !config: ingresa a la interfaz de configuración del usuario<br>
 - !alert: configura los ajustes de alerta de activación del tótem, este comando tiene 3 parámetros:<br>
-  - configurar: te permite cambiar el mensaje de alerta, cada "{player}" escrito en el mensaje será reemplazado por el nombre del jugador que activó el tótem<br>
-  - restablecer: restablece el mensaje de alerta al valor predeterminado<br>
-  - mostrar: le permite elegir si mostrar o no el mensaje de alerta<br>
+  - set: te permite cambiar el mensaje de alerta, cada "{player}" escrito en el mensaje será reemplazado por el nombre del jugador que activó el tótem<br>
+  - reset: restablece el mensaje de alerta al valor predeterminado<br>
+  - show: le permite elegir si mostrar o no el mensaje de alerta<br>
 - !achievement: configuración de la primera alerta de activación del tótem (o logro), este comando tiene 3 parámetros:<br>
-  - configurar: te permite cambiar el mensaje de alerta, cada "{player}" escrito en el mensaje será reemplazado por el nombre del jugador que activó el tótem<br>
-  - restablecer: restablece el mensaje de alerta al valor predeterminado<br>
-  - mostrar: le permite elegir si mostrar o no el mensaje de alerta<br>
+  - set: te permite cambiar el mensaje de alerta, cada "{player}" escrito en el mensaje será reemplazado por el nombre del jugador que activó el tótem<br>
+  - reset: restablece el mensaje de alerta al valor predeterminado<br>
+  - show: le permite elegir si mostrar o no el mensaje de alerta<br>
 NOTA IMPORTANTE: Es necesario tener el tag "TS:Admin" para poder editar las alertas. Puedes agregarlo usando /tag @s add "TS:Admin"
 <br><img align="center" src="./custom_commands.jpg">
 </ul>
